@@ -122,7 +122,7 @@ export default function PageTransition() {
 
   return (
     <TransitionOverlay $isActive={phase !== 'hidden'} $phase={phase}>
-      <BrandName $isVisible={brandVisible}>iWrite</BrandName>
+      <BrandName $isVisible={brandVisible}>MyBlog</BrandName>
     </TransitionOverlay>
   );
 }
