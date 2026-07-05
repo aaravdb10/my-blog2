@@ -7,6 +7,13 @@ This is a clean, minimal Vite and React project built for digital storytelling, 
 
 > **Project Origin & Intent:** This project was originally designed and built to be my **personal blogging website**—a dedicated place to write and share my creative articles and essays. Although I am not actively posting new content on it at this time, the codebase was fully built to function as a responsive, ready-to-use publishing workspace.
 
+### Project Development Stats (From Private Repository)
+
+- **Start Date / First Commit**: November 20, 2025
+- **Completion Date / Last Commit**: April 8, 2026
+- **Development Duration**: Approximately 4.5 months
+- **Total Commits**: 20 commits
+
 ---
 
 ## Technical Stack
