@@ -66,7 +66,7 @@ export default function Preloader({ setLoadingComplete })
                     animate={{opacity: 1, y:0}}
                     transition={{duration: 1}}
                 >
-                    MyBlog
+                    iWrite
                 </LoaderText>
                 
                 <ProgressBarContainer>

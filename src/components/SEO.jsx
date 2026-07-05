@@ -1,7 +1,7 @@
 import { Helmet } from "react-helmet";
 import { useLocation } from "react-router-dom";
 
-const SITE_NAME = "MyBlog";
+const SITE_NAME = "iWrite";
 const DEFAULT_DESCRIPTION = "A public minimalist blog template.";
 const DEFAULT_OG_IMAGE_PATH = "";
 

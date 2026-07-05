@@ -40,7 +40,7 @@ const NavLink = styled(Link)`
 export default function Navbar({ darkMode, setDarkMode, ThemeToggleComponent }) {
   return (
     <Nav>
-      <Logo to="/">MyBlog</Logo>
+      <Logo to="/">iWrite</Logo>
       <NavLinks>
         <NavLink to="/">Home</NavLink>
         <NavLink to="/blogs">Blogs</NavLink>

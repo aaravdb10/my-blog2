@@ -1,4 +1,7 @@
-# Minimalist Storytelling Blog Template
+# iWrite — Minimalist Storytelling Blog (Showcase Skeleton)
+
+> [!IMPORTANT]
+> **Showcase Only:** This repository contains a public skeleton/boilerplate version of the **iWrite** blog, created for showcasing the repository structure, codebase design, animations, and configurations. The main project (including custom page layouts, unique UI/UX styling, writing pieces/essays, and database credentials) is hosted in a private repository to prevent direct duplication.
 
 This is a clean, minimal Vite + React template designed for digital storytelling, essays, and blogs. It features smooth scrolling, aesthetic transitions, and dark/light modes.
 
@@ -39,3 +42,4 @@ This is a clean, minimal Vite + React template designed for digital storytelling
 
 ## Note
 This repository contains a public boilerplate version of the blog. Custom content and specific private assets are omitted.
+

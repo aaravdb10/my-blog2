@@ -38,7 +38,7 @@ export default function Home() {
     >
       <SEO title="Home" description="Generic homepage template" />
       <Hero>
-        <Title>Welcome to My Blog</Title>
+        <Title>Welcome to iWrite</Title>
         <Subtitle>A public minimalist showcase space.</Subtitle>
         <Link to="/blogs" style={{ textDecoration: "underline", color: "inherit" }}>
           View all posts

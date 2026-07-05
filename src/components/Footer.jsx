@@ -12,7 +12,7 @@ const FooterContainer = styled.footer`
 export default function Footer() {
   return (
     <FooterContainer>
-      <p>&copy; {new Date().getFullYear()} MyBlog. All rights reserved.</p>
+      <p>&copy; {new Date().getFullYear()} iWrite. All rights reserved.</p>
       <p style={{ marginTop: "0.5rem", fontSize: "0.85rem" }}>
         Made as a generic public blog skeleton.
       </p>
